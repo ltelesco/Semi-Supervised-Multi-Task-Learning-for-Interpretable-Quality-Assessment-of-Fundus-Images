@@ -32,4 +32,16 @@ If you use this dataset in your research, please cite our paper:
 ```
 L. Telesco, et al., "Semi-supervised multi-task learning for interpretable quality assessment of fundus images", Biomedical Signal Processing and Control, 2025.
 DOI: https://doi.org/10.1016/j.bspc.2025.109167
+
+@article{TELESCO2026109167,
+    title = {Semi-supervised multi-task learning for interpretable quality assessment of fundus images},
+    journal = {Biomedical Signal Processing and Control},
+    volume = {113},
+    pages = {109167},
+    year = {2026},
+    issn = {1746-8094},
+    doi = {https://doi.org/10.1016/j.bspc.2025.109167},
+    url = {https://www.sciencedirect.com/science/article/pii/S1746809425016787},
+    author = {Lucas Gabriel Telesco and Danila Nejamkin and Estefanía Mata and Francisco Filizzola and Kevin Wignall and Lucía Franco Troilo and María {de los Ángeles Cenoz} and Melissa Thompson and Mercedes Leguía and Ignacio Larrabide and José Ignacio Orlando}
+}
 ```
